@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HonzaHHHH
-- 👀 I’m interested in Assebler, C, C++, C--, C**, C//, C%%, C#, Robot Karel, Girls, Linux, planes, tanks, Nirvana, Arduino, ESP, Electronic ...
+- 👀 I’m interested in Assembler, C, C++, C--, C**, C//, C%%, C#, Robot Karel, Girls, Linux, planes, tanks, Nirvana, Arduino, ESP, Electronic ...
 - 🌱 I’m currently learning C and Assembler ( and all )
 - 💞️ I’m looking to collaborate on sleeping and nothing doing
 - 📫 How to reach me - not
